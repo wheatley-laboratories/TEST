@@ -80,6 +80,6 @@ The content in this repository is licensed under the MIT License, see the file `
 Notes
 -----
 
-- Testing has proven to be completely safe. The Code however has not.
+- Testing has proven to be completely safe. The Code, however, has not.
 - Do not look at the operational end of The Code.
 - Do not submerge The Code in liquid, even partially.
